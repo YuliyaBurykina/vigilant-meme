@@ -38,3 +38,11 @@
 ## Цитаты
 
 ## Заключение
+
+## Список команд
+1. git branch- это список веток
+2. git branch new_branch_name-создаем новую ветку с именем new_branch_name
+3. git branch -d branch_to_delete-команда по удалению ветки
+4. git checkout branch_name-эта команда позволяет переходить с одной ветки на другую
+5.git log -graph-эта команда позволяет выводить список коммитов в виде дерева 
+6. git merge branch_name-сливает ветку branch_name с текущей веткой
